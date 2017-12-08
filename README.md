@@ -9,7 +9,7 @@ Download this repository as a zip file
 ## Requirements
 
 Pyhton must be installed on the computer with the GUI IDLE.
-If you do not have it installed you can install it [here](https://www.python.org/ftp/python/2.7.14/python-2.7.14-macosx10.6.pkg)
+If you do not have it installed you can install it [here](https://www.python.org/ftp/python/2.7.14/python-2.7.14-macosx10.6.pkg).
 
 ## How to Run Program
 
@@ -22,5 +22,4 @@ A browser window will open up with the movies being displayed.
 
 ## References
 
-The fresh_tomatoes file was used to convert the python code into html so that it can can on a browser.
-You can see the source code [here](https://github.com/udacity/ud036_StarterCode)
+The fresh_tomatoes file was used to convert the python code into html so that it can can on a browser. You can see the source code [here](https://github.com/udacity/ud036_StarterCode).
