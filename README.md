@@ -23,4 +23,4 @@ A browser window will open up with the movies being displayed.
 ## References
 
 The fresh_tomatoes file was used to convert the python code into html so that it can can on a browser.
-You can see the source code (here)[https://github.com/udacity/ud036_StarterCode]
+You can see the source code [here](https://github.com/udacity/ud036_StarterCode)
