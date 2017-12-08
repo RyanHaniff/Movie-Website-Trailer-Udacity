@@ -18,6 +18,6 @@ To run the program:
 2) Right click entertainment_center.py and open with IDLE
 3) Press F5 to run the script 
 
-A browser window should open up with the movies being displayed.
+A browser window will open up with the movies being displayed.
 
 
