@@ -4,8 +4,7 @@ Movie Website Trailer displays six of my favourite movies created in python. It 
 
 ## Installation
 
-Download this repository as a zip file
-
+Click the green Clone or downlaodd button and choose **Download ZIP**
 ## Requirements
 
 Pyhton must be installed on the computer with the GUI IDLE.
