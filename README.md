@@ -10,6 +10,7 @@ If you do not have it installed you can install it [here](https://www.python.org
 ## Installation
 
 Click the green Clone or downlaodd button and choose **Download ZIP**
+Extract the zip as a whole file.
 
 ## How to Run Program
 
