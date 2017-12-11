@@ -11,8 +11,8 @@ iron_man = media.Movie("Iron Man",
                        "https://www.youtube.com/watch?v=8hYlB38asDY")
 
 the_pursuit_of_happyness = media.Movie("The Pursuit Of Happyness",
-                         "https://fontmeme.com/images/The-Pursuit-of-Happyness-Poster.jpg",
-                         "https://www.youtube.com/watch?v=89Kq8SDyvfg")
+                                       "https://fontmeme.com/images/The-Pursuit-of-Happyness-Poster.jpg",
+                                       "https://www.youtube.com/watch?v=89Kq8SDyvfg")
 
 rush = media.Movie("Rush",
                    "https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/08/08aee6276db142f4b8ac98fb8ee0ed1b_500x735.jpg?t=1488638061",
