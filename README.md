@@ -4,7 +4,7 @@ Movie Website Trailer displays six of my favourite movies created in python. It 
 
 ## Requirements
 
-Python must be installed on your computer with the GUI IDLE.
+Python must be installed on your computer.
 If you do not have it installed you can install it [here](https://www.python.org/ftp/python/2.7.14/python-2.7.14-macosx10.6.pkg).
 
 ## Installation
@@ -13,10 +13,11 @@ Click the green Clone or downlaodd button and choose **Download ZIP** then extra
 
 ## How to Run Program
 
-To run the program:
+To run the program with Command Prompt or Terminal:
 1) Locate where you downloaded the repository
-2) Right click entertainment_center.py and open with IDLE
-3) Press F5 to run the script 
+2) Go to the directory where you unzipped the file
+4) Open the subfolder until you can see the python script files
+3) To then execute type in the command: `python entertainment_center.py`
 
 A browser window will open up with the movies being displayed.
 
