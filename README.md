@@ -1,6 +1,6 @@
 # Movie Website Trailer
 
-Movie Website Trailer displays six of my favourite movies created in python. It displays the name, a poster image and if you click on the image it plays the trailer of said image. A helper module called fresh_tomatoes is used to convert it to a html file 
+Movie Website Trailer displays six of my favourite movies created in python. It displays the name, a poster image and if you click on the image it plays the trailer of said image. A helper module called fresh_tomatoes is used to convert it to a html file.
 
 ## Requirements
 
@@ -22,4 +22,4 @@ A browser window will open up with the movies being displayed.
 
 ## References
 
-The fresh_tomatoes file was used to convert the python code into html so that it can can on a browser. You can see the source code [here](https://github.com/udacity/ud036_StarterCode).
+The fresh_tomatoes file was used to convert the python code into html so that it can be viewed on a browser. You can see the source code [here](https://github.com/udacity/ud036_StarterCode).
